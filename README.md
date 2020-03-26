@@ -1,13 +1,12 @@
 # Violent Delights
 
 Inspired by [Data Wrangling Westworld](https://mode.com/blog/data-mining-westworld)
-by Joel Carron. However, that was four years ago and their data is not accessible
-to me anymore. The page with all his visualizations is also a broken link now. 
+by Joel Carron.
 
 Carron's original project built a dataset from episode scripts from 
 springfieldspringfield.co.uk (which is now shut down). Additionally, the scripts
 were missing character names, so they needed to re-watch each episode and add
-the names manually. What a task. 
+the names manually.
 
 Since this project is more about relationships than an analysis of the dialogue,
 I won't need to go that far. 
