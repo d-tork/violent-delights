@@ -1,6 +1,8 @@
 # jupyter notebook files
 .ipynb_checkpoints/
-WW_networkx.ipynb  # practice file
+
+# practice file
+WW_networkx.ipynb  
 
 # Internal use (website/coding references)
 references.md
