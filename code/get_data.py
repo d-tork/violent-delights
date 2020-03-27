@@ -103,8 +103,10 @@ def scrape_all_features(char_list):
         scrape_pt = get_pagetext(scrape_resp)
         try:
             scrape_ib = get_infobox(scrape_pt)
-        except IndexError:
-            print(f"Failed to scrape {char['name']}!")
+            # TODO: scrape pagetext for categories as well
+            # TODO: scrape pagetext for character name mentions
+        except Exception as e:
+            print(f"Failed to scrape {char['name']}! ({e})")
             continue
         char.update(scrape_ib)
 
