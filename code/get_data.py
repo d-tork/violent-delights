@@ -126,14 +126,21 @@ def main():
     parks = [dict(id=x['id'], name=x['title'], url=x['url']) for x in park_request]
 
     # Collect relationships
+    print('Finding links...')
     for character in chars:
         character['links'] = get_links(character)
+    print('\t done.\n')
 
     add_species_label(chars)
+    print('Getting attributes...')
     scrape_all_features(chars)
+    print('\t done.\n')
 
+    # Write out
     df_chars = pd.DataFrame.from_dict(chars).set_index('id')
-    df_chars.to_csv('../data/characters.csv')
+    outfile = '../data/characters.csv'
+    df_chars.to_csv(outfile)
+    print(f'Characters written to {outfile}')
 
 
 if __name__ == '__main__':
