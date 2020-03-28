@@ -1,6 +1,9 @@
 # jupyter notebook files
 .ipynb_checkpoints/
 
+# Pycharm files
+.idea/
+
 # practice file
 WW_networkx.ipynb  
 
