@@ -47,6 +47,15 @@ def fix_species(df):
     df['species'] = df['species'].replace(species_map)
 
 
+def update_host_human(df):
+    """Fill NAs in species based on host/human bools (from wiki categories)."""
+    missing_host = (df.is_host) & (df.species.isna())
+    missing_human = (df.is_human) & (df.species.isna())
+    df['species'] = df['species'].mask(missing_host, 'Host')
+    df['species'] = df['species'].mask(missing_human, 'Human')
+    return df
+
+
 def main():
     chars_raw = pd.read_csv('../data/characters.csv', encoding='utf-8')
     print(chars_raw.loc[0, 'aka'])
@@ -74,6 +83,7 @@ def main():
     chars = chars.drop(index=chars[chars.url.str.contains('Category')].index)
 
     fix_species(chars)
+    chars = update_host_human(chars)
 
     # Write out
     outfile = '../data/characters_clean.csv'

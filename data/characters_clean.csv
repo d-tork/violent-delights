@@ -7,9 +7,9 @@ Tribesman (formerly)
 Argos Initiative salesman (formerly)","Repeatedly stabbed in the gut by a guest (repaired by Livestock Management)
 Fell off a cliff after being shot in the back by a Quality Assurance",Kohana (lover),
 3182,Angela,/wiki/Angela,['Wyatt'],True,False,"""Angela the cult member""",Decommissioned,Host,Female,Talulah Riley,Season One,"""Chestnut""","""Les Ecorches""",British Caucasian,Blonde,Hazel,,"Townswoman, Guest Greeter, Cult Member",self-destruction by detonating a grenade,,30s
-7615,Antoine Costa,/wiki/Antoine_Costa,,False,True,,Deceased,,Male,Fares Fares,Season Two,"""Journey_Into_Night_(episode)","""The_Passenger",,Black,Brown,,Technician,Shot repeatedly by Dolores Abernathy (as Charlotte Hale),,
+7615,Antoine Costa,/wiki/Antoine_Costa,,False,True,,Deceased,Human,Male,Fares Fares,Season Two,"""Journey_Into_Night_(episode)","""The_Passenger",,Black,Brown,,Technician,Shot repeatedly by Dolores Abernathy (as Charlotte Hale),,
 2165,Armistice,/wiki/Armistice,"['Hector Escaton', 'Wyatt']",True,False,,Decommissioned,Host,Female,Ingrid Bolsø Berdal,Season One,"""The Original""",,Caucasian American,Blonde,,,,,,30s
-10472,Arno,/wiki/Arno,,True,False,,,,,,,,,,,,,,,,
+10472,Arno,/wiki/Arno,,True,False,,,Host,,,,,,,,,,,,,
 2764,Arnold Weber,/wiki/Arnold_Weber,"['Dolores Abernathy', 'Robert Ford']",False,True,"The General (in Teddy's memories of Wyatt)
 Creator (by Akecheta)",Deceased,Human,Male,Jeffrey Wright,Season One,"""Chestnut""","""Kiksuya""",,,,,Co-Creator of Westworld,Shot in the back of the head by Dolores Abernathy,"Charlie (as revealed in ""The Stray""), his son",Late 40s
 8562,Arroyo,/wiki/Arroyo,,False,True,,Deceased,Human,Male,Austin Priester,Season Two,"""Virtù e Fortuna""","""Virtù e Fortuna""",African American,,,"""Virtù e Fortuna""",Member of the Westworld QA Security Force,Shot by Dolores Abernathy,,
@@ -21,11 +21,11 @@ Creator (by Akecheta)",Deceased,Human,Male,Jeffrey Wright,Season One,"""Chestnut
 7644,Bartender (The Original),/wiki/Bartender_(The_Original),,True,False,,Reused,Host,Male,Bradford Tatum,Season One,The Original,The Original,Caucasian American,Brown,Grey,," Bartender
  Rancher","As a bartender, killed by Hector Escaton (loop)",,
 11639,Benny,/wiki/Benny,,False,False,,Alive/Simulated,Simulation,Male,David Danipour,Season Three,The Winter Line,The Winter Line,,,,,,,,20's
-8166,Benson,/wiki/Benson,,False,True,,,,,,,,,,,,,,,,
+8166,Benson,/wiki/Benson,,False,True,,,Human,,,,,,,,,,,,,
 2159,Bernard Lowe,/wiki/Bernard_Lowe,"['Robert Ford', 'Elsie Hughes', 'Lauren', 'Theresa Cullen']",True,False,Bernie - by Theresa Cullen,Active,Host,Male,Jeffrey Wright,Season One,"""The Original""",,African American,Black,Brown,,,,"Lauren - Ex-wife
 Charlie - Deceased son",Late 40s
 11584,Bernard Lowe/Season 3,/wiki/Bernard_Lowe/Season_3,,False,False,,,,,,,,,,,,,,,,
-7680,Blaine Bellamy,/wiki/Blaine_Bellamy,,False,True,,,,,,,,,,,,,,,,
+7680,Blaine Bellamy,/wiki/Blaine_Bellamy,,False,True,,,Human,,,,,,,,,,,,,
 4058,Bloody Jimmy,/wiki/Bloody_Jimmy,,False,True,,,Human,Male,Jonny Pasvolsky,Season One,"""The Adversary""",,Caucasian South African,,,,,,,30s-40s
 4059,Branding Soldier,/wiki/Branding_Soldier,,True,False,,,Host,Male,Kaiwi Lyman-Mersereau,Season One,"""The Adversary""",,,,,,,,,30s-40s
 8285,Brigham,/wiki/Brigham,,True,False,,Decommissioned,Host,Male,Frederic Lehne,Season Two,Virtù e Fortuna,Virtù e Fortuna,Caucasian,Black,Green,,Colonel for the Confederados,,,50s
@@ -34,7 +34,7 @@ Charlie - Deceased son",Late 40s
 11097,Caleb Nichols,/wiki/Caleb_Nichols,,False,False,,Alive,Human,Male,"Aaron Paul
 Dexter Hobert - as Young Caleb",Season Three,"""Parce Domine""",,Caucasian American,,,," Construction Worker
  Criminal",,,30's
-3467,Charlie,/wiki/Charlie,,False,True,,,,,,,,,,,,,,,,
+3467,Charlie,/wiki/Charlie,,False,True,,,Human,,,,,,,,,,,,,
 3099,Charlotte Hale,/wiki/Charlotte_Hale,"['Bernard Lowe', 'Hector Escaton', 'Man in Black', 'Theresa Cullen']",False,True,,Deceased,Human,Female,Tessa Thompson,Season One,"""The Adversary""","""Parce Domine""",African American,Brown,Brown,,"Executive Director of Delos Destinations, Inc.",Shot in the head by Dolores Abernathy posing as her,,30s
 10099,Charlotte Hale (host),/wiki/Charlotte_Hale_(host),,True,False,,Active,Host,Female,Tessa Thompson,Season Two,"""Virtù e Fortuna"" (not identified)""The Passenger""",,African American,Brown,Brown,,,,,30s
 8109,Cigarillo,/wiki/Cigarillo,['Lawrence'],True,False,,Unknown,Host,Male,Sal Lopez,Season One,"""Chestnut""","""Chestnut""",Spanish American,,,,,,,40s
@@ -47,22 +47,22 @@ Dexter Hobert - as Young Caleb",Season Three,"""Parce Domine""",,Caucasian Ameri
  New Clem: Blonde"," Old Clem: Green
  New Clem: Brown",," Old Clem, prostitute (formerly), now part of Wyatt's gang
  New Clem, prostitute at the Mariposa Saloon",,,30s
-8112,Cookie,/wiki/Cookie,,True,False,,,,,,,,,,,,,,,,
+8112,Cookie,/wiki/Cookie,,True,False,,,Host,,,,,,,,,,,,,
 8807,Coughlin,/wiki/Coughlin,,False,True,,Deceased,Human,Male,Timothy V. Murphy,Season Two,"""Phase Space""",,Irish Caucasian,,,,,Head smashed in by Teddy Flood,,
-7005,Craddock,/wiki/Craddock,,True,False,,Destroyed,,Male,Jonathan Tucker,Season Two,"""Reunion""","""The Riddle of the Sphinx""",Caucasian,Black,Green,"""Reunion""
+7005,Craddock,/wiki/Craddock,,True,False,,Destroyed,Host,Male,Jonathan Tucker,Season Two,"""Reunion""","""The Riddle of the Sphinx""",Caucasian,Black,Green,"""Reunion""
 ""The Riddle of the Sphinx""",,"Shot in the chest by Teddy Flood (revived by Phil)
 Blown up by Lawrence after being forced to drink nitroglycerin by Man in Black",,
 3176,Craig,/wiki/Craig,,False,True,,Alive,Human,Male,Currie Graham,Season One,"""The Original""","""The Riddle of the Sphinx""",,,,,,, Lori - Wife,
-11626,Dan,/wiki/Dan,,False,True,,,,,,,,,,,,,,,,
-11628,Dave,/wiki/Dave,,False,True,,,,,,,,,,,,,,,,
+11626,Dan,/wiki/Dan,,False,True,,,Human,,,,,,,,,,,,,
+11628,Dave,/wiki/Dave,,False,True,,,Human,,,,,,,,,,,,,
 2777,Deputy Foss,/wiki/Deputy_Foss,,True,False,,Unknown,Host,Male,Demetrius Grosse,Season One,"""The Original""","""Dissonance Theory""",African American,Black,,,Deputy Sheriff,,,40s
-3083,Deputy Roe,/wiki/Deputy_Roe,,True,False,,,,,,,,,,,,,,,,
-8564,Deputy Rogers,/wiki/Deputy_Rogers,,True,False,,,,Male,Con Schell,,The Stray,,,,,,Sheriff's Deputy,,,
+3083,Deputy Roe,/wiki/Deputy_Roe,,True,False,,,Host,,,,,,,,,,,,,
+8564,Deputy Rogers,/wiki/Deputy_Rogers,,True,False,,,Host,Male,Con Schell,,The Stray,,,,,,Sheriff's Deputy,,,
 3420,Destin Levy,/wiki/Destin_Levy,,False,True,,Deceased,Human,Male,Christopher Gerse,Season One,"""Contrapasso""","""The Bicameral Mind""",,,,"""The Bicameral Mind""",Technician Livestock Management division of Westworld (Location),Fatally stabbed through the back by Hector Escaton,,
 2158,Dolores Abernathy,/wiki/Dolores_Abernathy,"['Peter Abernathy', 'Teddy Flood', 'Bernard Lowe', 'Arnold Weber', 'Man in Black', 'William', 'Maeve Millay']",True,False,"Wyatt
 Wičhúŋt'e Aú (by Ghost Nation)
 Deathbringer (by Ghost Nation)
-Charlotte Hale (host)",Conscious,,Female,"Evan Rachel Wood
+Charlotte Hale (host)",Conscious,Host,Female,"Evan Rachel Wood
 Tessa Thompson (as Charlotte Hale)",Season One,"""The Original""",,"Caucasian American
 African American (as Hale)","Blonde
 Black (as Hale)","Blue
@@ -72,11 +72,11 @@ Executive director of the Delos Board (as Hale)","Shot herself in the head (revi
 Bled to death after being stabbed in the chest by Man in Black","Peter Abernathy (father)
 Unnamed mother",
 8046,Donald Pardue,/wiki/Donald_Pardue,,True,False,,Decommissioned,Host,Male,Wiley M. Pickett,,,,,,,,Bandit,Shot by William, Two unnamed Brothers,
-8658,Doshin,/wiki/Doshin,,True,False,,,,,,,,,,,,,,,,
+8658,Doshin,/wiki/Doshin,,True,False,,,Host,,,,,,,,,,,,,
 11624,Dragon,/wiki/Dragon,,True,False,,Inactive/Dismembered,Host,,,Season Three,The Winter Line,,,,,,Monster in Park 4,,,
-8025,Dunleavy,/wiki/Dunleavy,,True,False,,,,,,,,,,,,,,,,
-8362,Ehawee,/wiki/Ehawee,,True,False,,,,,,,,,,,,,,,,
-8057,El Lazo (II),/wiki/El_Lazo_(II),,True,False,,Decommissioned,,Male,Giancarlo Esposito,,Reunion,Reunion,Hispanic-American,Black,,,,,,
+8025,Dunleavy,/wiki/Dunleavy,,True,False,,,Host,,,,,,,,,,,,,
+8362,Ehawee,/wiki/Ehawee,,True,False,,,Host,,,,,,,,,,,,,
+8057,El Lazo (II),/wiki/El_Lazo_(II),,True,False,,Decommissioned,Host,Male,Giancarlo Esposito,,Reunion,Reunion,Hispanic-American,Black,,,,,,
 11567,Elliot,/wiki/Elliot,,False,True,,Alive,Human,Male,Payman Maadi,Season Three,Parce Domine,Parce Domine,Middle Eastern,,,,Delos Board Member,,,50's
 2164,Elsie Hughes,/wiki/Elsie_Hughes,"['Bernard Lowe', 'Ashley Stubbs', 'Clementine Pennyfeather']",False,True,,Deceased,Human,Female,Shannon Woodward,Season One,"""The Original""","""The Passenger""",Caucasian,Brown,Brown,,Programmer,Shot through the heart by Charlotte Hale,,30s
 4935,Emily,/wiki/Emily,"['William', 'Juliet', 'Dolores', 'Nicholas']",False,True," Emily Grace, full name
@@ -86,7 +86,7 @@ Unnamed mother",
  William, father
  Logan, uncle (Deceased)
  James Delos, grandfather (Deceased)",30s
-8808,Engels,/wiki/Engels,,False,True,,,,,,,,,,,,,,,,
+8808,Engels,/wiki/Engels,,False,True,,,Human,,,,,,,,,,,,,
 11586,Engerraund Serac,/wiki/Engerraund_Serac,,False,True,Engerraund Serac,Alive,Human,Male,Vincent Cassel,Season Three,"""The Winter Line""",,,Grey,Blue,,,,,50s
 9637,Etu,/wiki/Etu,,True,False,,Decommissioned,Host,Male,Booboo Stewart,Season Two,Kiksuya,Kiksuya,Native American,Black,Brown,,,,Wichapi (Mother),
 11714,Eunice,/wiki/Eunice,,False,True,,Alive,Human,Female,Ying Sayun,Season Three,Parce Domine,Parce Domine,Chinese,,,,,,Gerald (husband),30's
@@ -96,9 +96,9 @@ Unnamed mother",
 4081,Ford's Host Father,/wiki/Ford%27s_Host_Father,,True,False,,Unknown,Host,Male,Alastair Duncan,Season One,"""The Adversary""",,Caucasian British,Greying,,,,," Little Boy, son (Robert Ford as a child)
  Unknown, son
  Unknown, wife",60s
-3398,Fortune Teller,/wiki/Fortune_Teller,,True,False,,,,,,,,,,,,,,,,
+3398,Fortune Teller,/wiki/Fortune_Teller,,True,False,,,Host,,,,,,,,,,,,,
 11133,Francis,/wiki/Francis,,False,False,,Deceased,,Male,Kid Cudi,Season Three,,,African-American,,,,Convict,Shot in the stomach,,
-8119,Futterman,/wiki/Futterman,,False,True,,,,,,,,,,,,,,,,
+8119,Futterman,/wiki/Futterman,,False,True,,,Human,,,,,,,,,,,,,
 8159,Ganju,/wiki/Ganju,,True,False,,Decommissioned,Host,Male,Sean Mann,Season Two,Virtù e Fortuna,Virtù e Fortuna,,,,,Hunting Guide,Shot by Grace,,
 11104,George,/wiki/George,,False,False,,Alive/Active,Robot,,,Season Three,Virtù e Fortuna,Virtù e Fortuna,,,,,Construction Worker,Shot by Grace,,
 11526,Gerald,/wiki/Gerald,,False,True,Gerry,Deceased,Human,Male,Thomas Kretschmann,Season Three,Parce Domine,Parce Domine,Caucasian German,,,Parce Domine,Investor,Accidental suicide,"Unknown first wife (deceased), Eunice (second wife)",50's
@@ -106,18 +106,18 @@ Unnamed mother",
 11557,Giggles,/wiki/Giggles,,False,True,,Alive,Human,,Marshawn Lynch,Season Three,Parce Domine,Parce Domine,African American,,,,Criminal,,,
 5287,Gitlitz,/wiki/Gitlitz,['Destin'],False,True,,Deceased,Human,Male,David Douglas,Season One,"""The Bicameral Mind""","""The Bicameral Mind""",,Black,Brown,"""The Bicameral Mind""",Technician Livestock Management division of Westworld (Location),Killed by Armistice,,30s-40s
 7816,Gold Miner Host,/wiki/Gold_Miner_Host,,True,False,,Active,Host,Male,Micah Fitzgerald,"Season One, Season Two","""Trace Decay""","""Journey Into Night (episode)",Caucasian,Brown,Blue,,,,,40s
-8809,Goldberg,/wiki/Goldberg,,False,True,,,,,,,,,,,,,,,,
-9981,Goldie Baird,/wiki/Goldie_Baird,,True,False,,,,,,,,,,,,,,,,
+8809,Goldberg,/wiki/Goldberg,,False,True,,,Human,,,,,,,,,,,,,
+9981,Goldie Baird,/wiki/Goldie_Baird,,True,False,,,Host,,,,,,,,,,,,,
 7008,Grace,/wiki/Grace,,False,False,,,,,,,,,,,,,,,,
-8122,Gregory,/wiki/Gregory,,False,True,,,,,,,,,,,,,,,,
+8122,Gregory,/wiki/Gregory,,False,True,,,Human,,,,,,,,,,,,,
 7674,Hanaryo,/wiki/Hanaryo,,True,False,,Decommissioned,Host,Female,Tao Okamoto,Season Two,"""Akane No Mai""",,Japanese,Black,,,,,,
-8814,Hawking,/wiki/Hawking,,False,True,,,,,,,,,,,,,,,,
+8814,Hawking,/wiki/Hawking,,False,True,,,Human,,,,,,,,,,,,,
 2162,Hector Escaton,/wiki/Hector_Escaton,"['Armistice', 'Maeve Millay', 'Charlotte Hale', 'William']",True,False,,Decommissioned,Host,Male,Rodrigo Santoro,Season One,"""The Original""",,Latin American,Brown,Brown,,Bandit,,,Early 40s
-8093,Henry Li,/wiki/Henry_Li,['Robert Ford'],False,True,,,,,,,,,,,,,,,,
-2913,Holden,/wiki/Holden,,True,False,,,,,,,,,,,,,,,,
+8093,Henry Li,/wiki/Henry_Li,['Robert Ford'],False,True,,,Human,,,,,,,,,,,,,
+2913,Holden,/wiki/Holden,,True,False,,,Host,,,,,,,,,,,,,
 3067,Homestead Girl,/wiki/Homestead_Girl,,True,False,,"Active (Consciousness in the Valley Beyond)
 Decommissioned (Body)",Host,Female,Jasmyn Rae,Season One,"""Chestnut""",,African American,Black,Brown,,,, Maeve Millay - Host mother in a past storyline,8-10
-8110,Horace Calhoun,/wiki/Horace_Calhoun,,True,False,,Unknown,,Male,Darrel Cherney,,The Stray,The Stray,Caucasian,Blonde,,,Bandit,,,
+8110,Horace Calhoun,/wiki/Horace_Calhoun,,True,False,,Unknown,Host,Male,Darrel Cherney,,The Stray,The Stray,Caucasian,Blonde,,,Bandit,,,
 11055,Irene Gerhart,/wiki/Irene_Gerhart,,False,False,,,,,,,,,,,,,,,,
 8563,Ivan,/wiki/Ivan,,False,False,,,,,,,,,,,,,,,,
 9794,Jack Monroe,/wiki/Jack_Monroe,,False,True,,Alive,Human,Male,Jack Conley,,"""Vanishing Point""","""Vanishing Point""",,Grey,,,,,,50's or 60's
@@ -140,8 +140,8 @@ Decommissioned (Body)",Host,Female,Jasmyn Rae,Season One,"""Chestnut""",,African
  Logan, brother (Deceased)
  Emily, daughter (Deceased)",Unknown (50+)(estimate)
 7613,Karl Strand,/wiki/Karl_Strand,,False,True,,Deceased,Human,Male,Gustaf Skarsgård,Season Two,"""Journey Into Night (episode)","""The_Passenger",Caucasian,Bald,Green,,Head of Operations,Shot in the head by Dolores Abernathy (As Charlotte Hale),,30's or 40's
-2601,Kissy,/wiki/Kissy,,True,False,,,,,,,,,,,,,,,,
-8657,Koda,/wiki/Koda,,True,False,,,,,,,,,,,,,,,,
+2601,Kissy,/wiki/Kissy,,True,False,,,Host,,,,,,,,,,,,,
+8657,Koda,/wiki/Koda,,True,False,,,Host,,,,,,,,,,,,,
 7676,Kohana,/wiki/Kohana,['Akecheta'],True,False,,Decommissioned (conscious mind in the Valley Beyond),Host,Female,Julia Jones,Season Two,"""Kiksuya""","""The Passenger""",Native American,Brown,,,,,Akecheta (lover),
 8319,Laura,/wiki/Laura,,False,True,,Unknown,Human,Female,Ashley Haden,Season Two,"""Virtù e Fortuna""","""Virtù e Fortuna""",,,,,Delos Board Member,,,30s
 2728,Lauren,/wiki/Lauren,['Bernard Lowe'],False,False,,"Unknown 
@@ -158,21 +158,21 @@ Lawrence Pedro María Gonzalez",Decommissioned,Host,Male,Clifton Collins Jr.,Sea
 3185,Lawrence's Wife,/wiki/Lawrence%27s_Wife,"['Lawrence', 'Daughter']",True,False,,Active,Host,Female,Olga Aguilar,Season One,"""Chestnut""","""The Riddle of the Sphinx""",Hispanic,Brown,,,,," Lawrence, husband
  Lawrence's Daughter",30s
 2167,Lee Sizemore,/wiki/Lee_Sizemore,"['Robert Ford', 'Theresa Cullen', 'Charlotte Hale']",False,True,,Deceased,Human,Male,Simon Quarterman,Season One,"""The Original""","""The Passenger""",British Caucasian,Black,Blue,,Westworld (Location),Shot repeatedly by Delos Security,,30s
-9980,Lester Abel,/wiki/Lester_Abel,,True,False,,,,,,,,,,,,,,,,
+9980,Lester Abel,/wiki/Lester_Abel,,True,False,,,Host,,,,,,,,,,,,,
 11529,Liam Dempsey Jr.,/wiki/Liam_Dempsey_Jr.,,False,True,Liam,Alive,Human,Male,John Gallagher Jr.,Season Three,Parce Domine,Parce Domine,Caucasian American,,,,Figured head of Incite Inc.,,Liam Dempsey Sr. (father),30's
 11287,Liam Dempsey Sr.,/wiki/Liam_Dempsey_Sr.,,False,True,,Deceased,Human,Male,Jefferson Mays,Season Three,,,Caucasian American,,,,Co-founder of Incite,,Liam Dempsey Jr. (son),
 11577,Liang,/wiki/Liang,,False,True,,Unknown (presumably alive),Human,Male,Jenson Cheng,Season Three,Parce Domine,,Asian,,,,Butcher,,,
-9070,Limpert,/wiki/Limpert,,False,True,,,,,,,,,,,,,,,,
+9070,Limpert,/wiki/Limpert,,False,True,,,Human,,,,,,,,,,,,,
 2977,Little Boy,/wiki/Little_Boy,,True,False,Young Robert,Decommissioned,Host,Male,Oliver Bell,Season One,"""Chestnut""","""Journey Into Night (episode)",Caucasian American,Sandy blond,,,,,,12-14 years old
 2531,Logan Delos,/wiki/Logan_Delos,"['William', 'Juliet']",False,True,,Deceased,Human,Male,Ben Barnes,Season One,"""Chestnut""","""The Passenger""",Caucasian American,Dark,Dark,,"Senior Management, Delos",Overdose," James Delos, father (Deceased)
  unnamed Mother (Deceased)
  Juliet, sister (Deceased)
  William, brother-in-law
  Emily, niece (Deceased)",30s
-3173,Lori,/wiki/Lori,,False,True,,Alive,,Female,Lena Georgas,Season One,"""The Original""","""The Riddle of the Sphinx""",,,,,,, Craig - Husband,
-2160,Maeve Millay,/wiki/Maeve_Millay,"['Clementine Pennyfeather', 'Dolores Abernathy']",True,False,Madam of Mariposa,Active,,Female,Thandie Newton,Season One,"""The Original""",,Black British,Black,Brown,,"Brothel Madam (formerly)
+3173,Lori,/wiki/Lori,,False,True,,Alive,Human,Female,Lena Georgas,Season One,"""The Original""","""The Riddle of the Sphinx""",,,,,,, Craig - Husband,
+2160,Maeve Millay,/wiki/Maeve_Millay,"['Clementine Pennyfeather', 'Dolores Abernathy']",True,False,Madam of Mariposa,Active,Host,Female,Thandie Newton,Season One,"""The Original""",,Black British,Black,Brown,,"Brothel Madam (formerly)
 Homesteader (formerly)",,Homestead Girl,
-7622,Maling,/wiki/Maling,,False,True,,,,,,,,,,,,,,,,
+7622,Maling,/wiki/Maling,,False,True,,,Human,,,,,,,,,,,,,
 2163,Man in Black,/wiki/Man_in_Black,"['Young William', 'Man in Black', 'Logan', 'Young William', 'Man in Black', 'Emily', 'Juliet']",False,True," Billy (by Logan and Juliet)
  Bill (by James Delos and some management at the time of The Gala)",Alive,Both,Male," Ed Harris (Man in Black)
  Jimmi Simpson (Young William)",Season One," ""The Original"" (Man in Black)
@@ -186,15 +186,15 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
 3213,Man on Train,/wiki/Man_on_Train,,False,True,,Alive,Human,Male,Jeffrey Muller,Season One,"""The Original""",,,,,,,,,40s
 8118,Manu,/wiki/Manu,,True,False,,Active,Host,Male,Jose Rosario,Season One,,,Hispanic,,,,,,,40s
 3200,Mariposa Bartender,/wiki/Mariposa_Bartender,,True,False,,Active,Host,Male,Bradley Fisher,Season One,"""Chestnut""","""Trace Decay""",,,,,,,,60s
-9175,Marshal Pruitt,/wiki/Marshal_Pruitt,,True,False,,,,,,,,,,,,,,,,
+9175,Marshal Pruitt,/wiki/Marshal_Pruitt,,True,False,,,Host,,,,,,,,,,,,,
 2828,Marti,/wiki/Marti,,False,True,,Unknown,Human,Female,Bojana Novakovic,Season One,"""The Stray""",,,Brunette,Brown,,Bounty Hunter,,,30s
 11096,Martin Connells,/wiki/Martin_Connells,,False,True,,"Deceased, copied as a Host",Human,Male,Tommy Flanagan,Season Three,Parce Domine,Parce Domine,Caucasian,,,Parce Domine,Fixer,,,50's
 3571,Maurice,/wiki/Maurice,,True,False,Maurice,Decommissioned,Host,Male,Tait Fletcher,Season One,"""The Stray""","""Contrapasso""",,Bald,,,Woodcutter,Suicide by smashing his own head in with a large rock then incinerated,,
 3439,Mesa Bartender,/wiki/Mesa_Bartender,,True,False,,Unknown,Host,Male,Tyler Parks,Season One,"""Contrapasso""","""The Adversary""",,,,,"Once a host in programming, now a bartender at the Mesa Hub",,,
 7629,Musashi,/wiki/Musashi,,True,False,,Active,Host,Male,Hiroyuki Sanada,Season Two,"""Akane No Mai""","""Phase Space""",Japanese,Black,,,,,,
 7009,Nicholas,/wiki/Nicholas,['Emily'],False,True,,Deceased,Human,Male,Neil Jackson,Season Two,"""Virtù e Fortuna""","""Virtù e Fortuna""",,blond,,"""Virtù e Fortuna""",,Shot by Ganju,,40s
-3400,Norris,/wiki/Norris,,True,False,,,,,,,,,,,,,,,,
-2589,Old Bill,/wiki/Old_Bill,,True,False,,,,,,,,,,,,,,,,
+3400,Norris,/wiki/Norris,,True,False,,,Host,,,,,,,,,,,,,
+2589,Old Bill,/wiki/Old_Bill,,True,False,,,Host,,,,,,,,,,,,,
 11537,Penny,/wiki/Penny,,False,True,,Alive,Human,Female,Phoebe Tonkin,Season Three,"""Parce Domine""",,Caucasian,,,,,,,
 2418,Peter Abernathy,/wiki/Peter_Abernathy,,True,False,," Old Peter: Decommissioned
  New Peter: Unknown",Host,Male,"
@@ -202,19 +202,19 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
  Bradford Tatum, New Peter",Season One,"""The Original""","""Les Ecorches""",,,,,"Rancher, former Sheriff",,"
  Dolores Abernathy - Host daughter
  Unnamed Wife",late 50s
-8008,Phil,/wiki/Phil,"[""Wyatt's gang""]",False,True,,,,,,,,,,,,,,,,
+8008,Phil,/wiki/Phil,"[""Wyatt's gang""]",False,True,,,Human,,,,,,,,,,,,,
 2452,Rebus,/wiki/Rebus,['Walter'],True,False,,Decommissioned,Host,Male,Steven Ogg,Season One,"""The Original""","""Virtù e Fortuna""",,Black,,,,,,
 11569,Reed Phillips,/wiki/Reed_Phillips,,False,True,,Alive,Human,Male,Gregory Zarian,Season Three,Parce Domine,Parce Domine,Caucasian American,,,,Delos Board member,,,40's
 3378,Revolutionaries,/wiki/Revolutionaries,,True,False,,,Host,,,"Season One, Season Two","""Contrapasso""","""Reunion""",,,,,,,,
 2156,Robert Ford,/wiki/Robert_Ford,"['Bernard Lowe', 'Theresa Cullen', 'Arnold Weber', 'Lee Sizemore', 'William']",False,True,,Deceased,Human,Male,Anthony HopkinsOliver Bell (Little Boy,,,,,,,,,,,
 11535,Roderick,/wiki/Roderick,,False,True,,Alive,Human,Male,Rafi Gavron,Season Three,Parce Domine,Parce Domine,British Caucasian,,,,,,,
-8810,Roland,/wiki/Roland,,False,True,,,,,,,,,,,,,,,,
+8810,Roland,/wiki/Roland,,False,True,,,Human,,,,,,,,,,,,,
 7801,Ronald,/wiki/Ronald,,False,True,,Deceased,Human,Male,Antonio Leon,Season Two,"""Journey_Into_Night_(episode)",,,,,"""Journey_Into_Night_(episode)",Delos Board Member,"Shot by a host, after The Gala",,30s
 7678,Sakura,/wiki/Sakura,,True,False,,Decommissioned,Host,Female,Kiki Sukezane,Season Two,"""Akane No Mai""",,Japanese,Black,,,,,,
-8111,Samuel,/wiki/Samuel,,True,False,,Unknown,,Male,Bruno Gunn,,The Stray,The Stray,Caucasian,Blonde,,,Bandit,,,
+8111,Samuel,/wiki/Samuel,,True,False,,Unknown,Host,Male,Bruno Gunn,,The Stray,The Stray,Caucasian,Blonde,,,Bandit,,,
 11082,Sauer,/wiki/Sauer,,False,False,,Decommissioned/Simulated,Simulation,Male,Christian Stamm,Season Three,The Winter Line,The Winter Line,Caucasian German,,,The Winter Line,Officer of the SS,,,40's
 2852,Sheriff Pickett,/wiki/Sheriff_Pickett,,True,False,,Unknown,Host,Male,Brian Howe,Season One,"""The Original""","""Trace Decay""",,Grey/Dark,,,Sheriff,,,50s or 60s
-3074,Sheriff Reed,/wiki/Sheriff_Reed,,True,False,,,,,,,,,,,,,,,,
+3074,Sheriff Reed,/wiki/Sheriff_Reed,,True,False,,,Host,,,,,,,,,,,,,
 8664,Shogun,/wiki/Shogun,,True,False,,Decommissioned,Host,Male,Masaru Shinozuka,Season Two,"""Akane No Mai""",,Japanese,Dark,,"""Akane No Mai""",Military Dictator,stabbed in the ear by Akane,,50s
 3196,Shy Guest,/wiki/Shy_Guest,,False,False,,Alive,,Male,Lucas Kwan Peterson,Season One,"""Chestnut""","""Chestnut""",,,,,,,,
 3171,Sketchy Guest,/wiki/Sketchy_Guest,,False,True,,Alive,Human,Male,Dusty Sorg,Season One,"""The Stray""",,Caucasian American,,,,,,,
@@ -222,9 +222,9 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
 3192,Spellbound Guest,/wiki/Spellbound_Guest,,False,True,,Alive,Human,Male,Michael L. Bash,Season One,"""Chestnut""","""Chestnut""",,,,,,,,30s
 3188,Stewardess,/wiki/Stewardess,,False,False,,Alive,,Female,Kiki McCleary,Season One,"""Chestnut""","""Chestnut""",,,,,,,,
 3167,Sylvester,/wiki/Sylvester,"['Felix Lutz', 'Maeve Millay']",False,True,,Alive,Human,Male,Ptolemy Slocum,Season One,"""The Original""",,Caucasian American,Dirty blonde,Blue,,Technician in Livestock Management division of Westworld (Location),,,early 40s
-7803,Takoda,/wiki/Takoda,,True,False,,Decomissioned,,Male,David Midthunder,Season Two,"""Journey_Into_Night_(episode)",,Native American,,,,Host,,,
-8722,Tanaka,/wiki/Tanaka,,True,False,,,,,,,,,,,,,,,,
-2157,Teddy Flood,/wiki/Teddy_Flood,"['Dolores Abernathy', 'Man in Black', 'Dr. Robert Ford']",True,False,Teddy,Decommissioned (conscious mind in Valley Beyond,,Male,James Marsden,Season One,"""The Original""","""The Passenger""",Caucasian American,Brown,Blue,"""The Original""
+7803,Takoda,/wiki/Takoda,,True,False,,Decomissioned,Host,Male,David Midthunder,Season Two,"""Journey_Into_Night_(episode)",,Native American,,,,Host,,,
+8722,Tanaka,/wiki/Tanaka,,True,False,,,Host,,,,,,,,,,,,,
+2157,Teddy Flood,/wiki/Teddy_Flood,"['Dolores Abernathy', 'Man in Black', 'Dr. Robert Ford']",True,False,Teddy,Decommissioned (conscious mind in Valley Beyond,Host,Male,James Marsden,Season One,"""The Original""","""The Passenger""",Caucasian American,Brown,Blue,"""The Original""
 ""Chestnut""
 ""The Well-Tempered Clavier""
 ""The Bicameral Mind""
@@ -233,7 +233,7 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
 2863,Tenderloin,/wiki/Tenderloin,,True,False,,Unknown,Host,Male,Jeff Daniel Phillips,Season One,"""The Original""","""The Well-Tempered Clavier""",Caucasian,Brown,,,Criminal,,,40s
 11646,Therapist,/wiki/Therapist,,False,True,,Alive,Human,Male,Wayne Péré,Season Three,Parce Domine,Parce Domine,Caucasian American,,,,Therapist,,,40's
 2413,Theresa Cullen,/wiki/Theresa_Cullen,"['Bernard Lowe', 'Lee Sizemore']",False,True,,Deceased,Human,Female,Sidse Babett Knudsen,Season One,"""The Original""","""Les Ecorches""(in Bernard's Flashbacks)",Danish,Brown,Blue/Grey,,Head of Quality Assurance,Head smashed by Bernard Lowe under the orders of Robert Ford,unnamed brother,
-8117,Todd,/wiki/Todd,,False,True,,,,,,,,,,,,,,,,
+8117,Todd,/wiki/Todd,,False,True,,,Human,,,,,,,,,,,,,
 8114,Union Scout,/wiki/Union_Scout,,True,False,,Decommissioned,Host,Male,Dylan Kenin,Season One,"""Contrapasso""",,,,,,The Union Army,,,
 3508,Union Soldier,/wiki/Union_Soldier,,True,False,,Unknown,Host,Male,Corlandos Scott,Season One,"""Contrapasso""",,,,,,Union Solider,,,
 3506,Wagon driver,/wiki/Wagon_driver,,True,False,,Decommissioned,Host,Male,Brett Porter,Season One,"""Contrapasso""",,,,,Shot by William,The Union Army,,,
@@ -247,7 +247,7 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
  Old Walter ""The Stray""
  New Walter ""Virtù e Fortuna""",Caucasian American,Brown,,,,,,30s
 8130,Wanahton,/wiki/Wanahton,,True,False,,Active,Host,Male,Martin Sensmeier,Season Two,"""Virtù e Fortuna""",,Native American,Brown,,,,,,
-9651,Wichapi,/wiki/Wichapi,,True,False,,,,,,,,,,,,,,,,
+9651,Wichapi,/wiki/Wichapi,,True,False,,,Host,,,,,,,,,,,,,
 3211,Woman on Train,/wiki/Woman_on_Train,,False,True,,Alive,Human,Female,Brook Kerr,Season One,"""The Original""",,,,,,,,,
-2866,Wyatt,/wiki/Wyatt,"['Teddy Flood', 'Armistice', 'Dolores Abernathy']",True,False,,,,,,,,,,,,,,,,
-8656,Yoriki Yamato,/wiki/Yoriki_Yamato,,True,False,,,,,,,,,,,,,,,,
+2866,Wyatt,/wiki/Wyatt,"['Teddy Flood', 'Armistice', 'Dolores Abernathy']",True,False,,,Host,,,,,,,,,,,,,
+8656,Yoriki Yamato,/wiki/Yoriki_Yamato,,True,False,,,Host,,,,,,,,,,,,,
