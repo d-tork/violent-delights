@@ -58,7 +58,6 @@ def update_host_human(df):
 
 def main():
     chars_raw = pd.read_csv('../data/characters.csv', encoding='utf-8')
-    print(chars_raw.loc[0, 'aka'])
 
     # Work with a new copy
     chars = chars_raw.copy()
