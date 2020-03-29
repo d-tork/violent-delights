@@ -1,3 +1,10 @@
+"""Creates structured data from subtitle files.
+
+# TODO:
+- mark any line with <i> tags as a character being off-screen
+- look for lines that begin with "[name]:" as it may also be
+    an off-screen character, but the name will make for great attribution
+"""
 from glob import glob
 from os import path
 import chardet
@@ -115,7 +122,6 @@ def main():
     subtitle_path = path.join(DIR_PATH, '..', 'subtitles', '*.srt')
     for filepath in glob(subtitle_path):
         print(filepath)
-        #fpath = path.join(DIR_PATH, '..', 'subtitles', filename)
         df_episode = all_file_actions(filepath)
         df_all = df_all.append(df_episode)
 
