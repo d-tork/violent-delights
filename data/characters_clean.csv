@@ -24,14 +24,13 @@ Creator (by Akecheta)",Deceased,Human,Male,Jeffrey Wright,Season One,"""Chestnut
 8166,Benson,/wiki/Benson,,False,True,,,Human,,,,,,,,,,,,,
 2159,Bernard Lowe,/wiki/Bernard_Lowe,"['Robert Ford', 'Elsie Hughes', 'Lauren', 'Theresa Cullen']",True,False,Bernie - by Theresa Cullen,Active,Host,Male,Jeffrey Wright,Season One,"""The Original""",,African American,Black,Brown,,,,"Lauren - Ex-wife
 Charlie - Deceased son",Late 40s
-11584,Bernard Lowe/Season 3,/wiki/Bernard_Lowe/Season_3,,False,False,,,,,,,,,,,,,,,,
 7680,Blaine Bellamy,/wiki/Blaine_Bellamy,,False,True,,,Human,,,,,,,,,,,,,
 4058,Bloody Jimmy,/wiki/Bloody_Jimmy,,False,True,,,Human,Male,Jonny Pasvolsky,Season One,"""The Adversary""",,Caucasian South African,,,,,,,30s-40s
 4059,Branding Soldier,/wiki/Branding_Soldier,,True,False,,,Host,Male,Kaiwi Lyman-Mersereau,Season One,"""The Adversary""",,,,,,,,,30s-40s
 8285,Brigham,/wiki/Brigham,,True,False,,Decommissioned,Host,Male,Frederic Lehne,Season Two,Virtù e Fortuna,Virtù e Fortuna,Caucasian,Black,Green,,Colonel for the Confederados,,,50s
 11565,Brompton,/wiki/Brompton,,False,True,,Alive,Human,Male,Russell Wong,Season Three,Parce Domine,Parce Domine,Asian American,,,,Delos Board Member,,,40's
 11719,Buchan,/wiki/Buchan,,False,True,,Alive,Human,Male,Robert Morgan,Season Three,Parce Domine,Parce Domine,Caucasian,,,,Butcher,,,50's
-11097,Caleb Nichols,/wiki/Caleb_Nichols,,False,False,,Alive,Human,Male,"Aaron Paul
+11097,Caleb Nichols,/wiki/Caleb_Nichols,,False,True,,Alive,Human,Male,"Aaron Paul
 Dexter Hobert - as Young Caleb",Season Three,"""Parce Domine""",,Caucasian American,,,," Construction Worker
  Criminal",,,30's
 3467,Charlie,/wiki/Charlie,,False,True,,,Human,,,,,,,,,,,,,
@@ -88,6 +87,7 @@ Unnamed mother",
  James Delos, grandfather (Deceased)",30s
 8808,Engels,/wiki/Engels,,False,True,,,Human,,,,,,,,,,,,,
 11586,Engerraund Serac,/wiki/Engerraund_Serac,,False,True,Engerraund Serac,Alive,Human,Male,Vincent Cassel,Season Three,"""The Winter Line""",,,Grey,Blue,,,,,50s
+11760,Estefan,/wiki/Estefan,,False,True,,Alive,Human,Male,Isaac Gonzalez Rossi,Season Three,Parce Domine,Parce Domine,Hispanic American,,,,Criminal,,,30's
 9637,Etu,/wiki/Etu,,True,False,,Decommissioned,Host,Male,Booboo Stewart,Season Two,Kiksuya,Kiksuya,Native American,Black,Brown,,,,Wichapi (Mother),
 11714,Eunice,/wiki/Eunice,,False,True,,Alive,Human,Female,Ying Sayun,Season Three,Parce Domine,Parce Domine,Chinese,,,,,,Gerald (husband),30's
 3190,Eye Patch,/wiki/Eye_Patch,,False,False,,Active,Host,Male,Patrick Gorman,Season One,"""Chestnut""","""Chestnut""",,,,,,,,60s
@@ -190,8 +190,10 @@ Majority Shareholder of Westworld, Member of the board of Delos Destinations, Ph
 8118,Manu,/wiki/Manu,,True,False,,Active,Host,Male,Jose Rosario,Season One,,,Hispanic,,,,,,,40s
 3200,Mariposa Bartender,/wiki/Mariposa_Bartender,,True,False,,Active,Host,Male,Bradley Fisher,Season One,"""Chestnut""","""Trace Decay""",,,,,,,,60s
 9175,Marshal Pruitt,/wiki/Marshal_Pruitt,,True,False,,,Host,,,,,,,,,,,,,
+11762,Martel,/wiki/Martel,,False,False,,Alive,Human,Female,Pom Klementieff,Season Three,Parce Domine,Parce Domine,Asian American,,,,,,,30's
 2828,Marti,/wiki/Marti,,False,True,,Unknown,Human,Female,Bojana Novakovic,Season One,"""The Stray""",,,Brunette,Brown,,Bounty Hunter,,,30s
 11096,Martin Connells,/wiki/Martin_Connells,,False,True,,"Deceased, copied as a Host",Human,Male,Tommy Flanagan,Season Three,Parce Domine,Parce Domine,Caucasian,,,Parce Domine,Fixer,,,50's
+11600,Martin Connells (host),/wiki/Martin_Connells_(host),,True,False,,Active,Host,Male,Tommy Flanagan,Season Three,Parce Domine,Parce Domine,Caucasian,,,Parce Domine,Fixer,,,50's
 3571,Maurice,/wiki/Maurice,,True,False,Maurice,Decommissioned,Host,Male,Tait Fletcher,Season One,"""The Stray""","""Contrapasso""",,Bald,,,Woodcutter,Suicide by smashing his own head in with a large rock then incinerated,,
 3439,Mesa Bartender,/wiki/Mesa_Bartender,,True,False,,Unknown,Host,Male,Tyler Parks,Season One,"""Contrapasso""","""The Adversary""",,,,,"Once a host in programming, now a bartender at the Mesa Hub",,,
 7629,Musashi,/wiki/Musashi,,True,False,,Active,Host,Male,Hiroyuki Sanada,Season Two,"""Akane No Mai""","""Phase Space""",Japanese,Black,,,,,,

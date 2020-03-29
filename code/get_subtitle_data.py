@@ -1,9 +1,10 @@
 """Creates structured data from subtitle files.
 
 # TODO:
-- mark any line with <i> tags as a character being off-screen
-- look for lines that begin with "[name]:" as it may also be
+[x] mark any line with <i> tags as a character being off-screen
+[x] look for lines that begin with "[name]:" as it may also be
     an off-screen character, but the name will make for great attribution
+[ ] fuzzy string matching to find character names mentioned in dialogue
 """
 from glob import glob
 from os import path
@@ -95,6 +96,60 @@ def detect_file_encoding(fpath):
     return result['encoding']
 
 
+def mark_offscreen_dialogue(df):
+    """Flags if line was delivered by someone off-screen.
+
+    Depends on html <i> tags, so do this before cleaning.
+    """
+    df['offscreen'] = df['text'].str.contains('<i>')
+
+
+def explode_multicharacter_subtitle(df):
+    """Explode data when single subtitle covers multiple people.
+
+    Detectable with a hyphen followed by a space.
+    """
+    df['textsplit'] = df['text'].str.split(pat='- ')
+    # Remove empty strings from textsplit lists
+    df['textsplit'] = df['textsplit'].apply(
+        lambda l: [x for x in l if len(x) > 0]
+    )
+    df = df.explode('textsplit')
+    # Rename columns for precision
+    df = df.rename(columns={
+        'text': 'fulltext',
+        'textsplit': 'text'
+    })
+    return df
+
+
+def remove_html_tags(df, colname):
+    """Remove all html from a series."""
+    df[colname] = df[colname].str.replace('<[^<]+?>', '')
+    return df
+
+
+def get_attributable_speaker(df):
+    """If a speaker is attributable, extract their name."""
+    speaker_pat = r'(.+):.*'
+    df['speaker'] = df['text'].str.extract(speaker_pat)
+    df['speaker'] = df['speaker'].str.upper()
+
+    # Drop any "speakers" whose name is longer than 3 words (i.e.
+    # just a colon being used in the dialogue)
+    # This keeps 'Guy #2' and 'Man in Black', but not 'The real question is'
+    df['_spkr_word_count'] = df['speaker'].fillna('').str.split().map(len)
+    df['_attributable'] = (
+            (df['_spkr_word_count'] > 0) &
+            (df['_spkr_word_count'] <= 3)
+    )
+    # Fill with null the speakers made of more than 3 words
+    df['speaker'] = df['speaker'].where(df['_attributable'])
+    # Clean up temp columns
+    df = df.drop(columns=['_spkr_word_count', '_attributable'])
+    return df
+
+
 def all_file_actions(fpath):
     """Creates dataframe for single episode."""
     # Parse episode name and number
@@ -114,6 +169,10 @@ def all_file_actions(fpath):
     df_data = convert_time_cols(df_data)
     df_data = drop_bad_rows(df_data)
     df_data = add_episode_data(df_data, episode_dict)
+    df_data = explode_multicharacter_subtitle(df_data)
+    mark_offscreen_dialogue(df_data)
+    df_data = remove_html_tags(df_data, 'text')
+    df_data = get_attributable_speaker(df_data)
     return df_data
 
 
