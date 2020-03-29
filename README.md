@@ -24,3 +24,5 @@ Since no good source for all episode scripts is available, I may resort to
 analyzing subtitle files for character name mentions within a certain number
 of minutes, which may indicate that characters are talking to or about one
 another.
+
+Subtitle files downloaded from http://www.tvsubtitles.net/tvshow-2081-3.html
