@@ -1,7 +1,10 @@
+from os import path
 import pandas as pd
 import requests
 import xml.etree.ElementTree as ET
 import re
+
+DIR_PATH = path.dirname(path.realpath(__file__))
 
 
 def get_links(char_dict):
@@ -138,7 +141,7 @@ def main():
 
     # Write out
     df_chars = pd.DataFrame.from_dict(chars).set_index('id')
-    outfile = '../data/characters.csv'
+    outfile = path.join(DIR_PATH, '..', 'data', 'characters.csv')
     df_chars.to_csv(outfile)
     print(f'Characters written to {outfile}')
 

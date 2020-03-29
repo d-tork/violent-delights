@@ -1,5 +1,8 @@
+from os import path
 import pandas as pd
 import re
+
+DIR_PATH = path.dirname(path.realpath(__file__))
 
 # Compile regex for cleaning
 HTML_REMOVE_R = re.compile('<.*?>')
@@ -57,7 +60,8 @@ def update_host_human(df):
 
 
 def main():
-    chars_raw = pd.read_csv('../data/characters.csv', encoding='utf-8')
+    chars_raw_path = path.join(DIR_PATH, '..', 'data', 'characters.csv')
+    chars_raw = pd.read_csv(chars_raw_path, encoding='utf-8')
 
     # Work with a new copy
     chars = chars_raw.copy()
@@ -85,7 +89,7 @@ def main():
     chars = update_host_human(chars)
 
     # Write out
-    outfile = '../data/characters_clean.csv'
+    outfile = path.join(DIR_PATH, '..', 'data', 'characters_clean.csv')
     chars.to_csv(outfile, index=False, encoding='utf-8')
     print(f'Characters (clean) written to {outfile}')
 
