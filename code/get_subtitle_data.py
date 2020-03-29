@@ -61,7 +61,10 @@ def convert_time_cols(df):
 
 
 def drop_bad_rows(df):
-    """Some subtitles are just font and website info"""
+    """Some subtitles are just font and website info.
+
+    This occurs before html tags are cleaned.
+    """
     # Drop font color rows
     df = df.drop(index=df.loc[df.text.str.contains('<font')].index)
     return df
@@ -150,6 +153,13 @@ def get_attributable_speaker(df):
     return df
 
 
+def drop_empty_rows(df):
+    """Where text ended up an empty string w/ spaces.
+
+    So far, this was just S01E01 - The Original."""
+    return df.drop(index=df.loc[df.text == ' '].index)
+
+
 def all_file_actions(fpath):
     """Creates dataframe for single episode."""
     # Parse episode name and number
@@ -173,6 +183,7 @@ def all_file_actions(fpath):
     mark_offscreen_dialogue(df_data)
     df_data = remove_html_tags(df_data, 'text')
     df_data = get_attributable_speaker(df_data)
+    df_data = drop_empty_rows(df_data)
     return df_data
 
 
