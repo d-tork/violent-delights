@@ -26,3 +26,8 @@ of minutes, which may indicate that characters are talking to or about one
 another.
 
 Subtitle files downloaded from http://www.tvsubtitles.net/tvshow-2081-3.html
+
+## Future
+
+### API
+Westworld really ought to have an API, like [SWAPI](https://swapi.dev/) or [Marvel's API](https://developer.marvel.com/)
