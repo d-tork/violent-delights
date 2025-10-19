@@ -131,7 +131,10 @@ def main():
     # Collect relationships
     print('Finding links...')
     for character in chars:
-        character['links'] = get_links(character)
+        try:
+            character['links'] = get_links(character)
+        except KeyError:
+            continue
     print('\t done.\n')
 
     add_species_label(chars)
